@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/zcl/test_up/target/scala-2.11/test_up_2.11-0.1-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleModule$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/zcl/test_up/target/scala-2.11/classes/SimpleModule$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleModule$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/zcl/test_up/target/scala-2.11/classes/SimpleModule$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleModule$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/zcl/test_up/target/scala-2.11/classes/SimpleModule$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainObj$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/zcl/test_up/target/scala-2.11/classes/MainObj$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainObj$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/zcl/test_up/target/scala-2.11/classes/MainObj$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleModule$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/zcl/test_up/target/scala-2.11/classes/SimpleModule$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainObj$$anonfun$5$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/zcl/test_up/target/scala-2.11/classes/MainObj$$anonfun$5$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleModule$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/zcl/test_up/target/scala-2.11/classes/SimpleModule$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainObj.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/zcl/test_up/target/scala-2.11/classes/MainObj.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleModule.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/zcl/test_up/target/scala-2.11/classes/SimpleModule.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainObj$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/zcl/test_up/target/scala-2.11/classes/MainObj$delayedInit$body.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

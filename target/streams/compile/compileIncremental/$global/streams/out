@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0mFull compilation, no sources in previous analysis.[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to /home/zcl/test_up/target/scala-2.11/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.11:1.0.5:compile for Scala 2.11.12[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.11:1.0.5:compile for Scala 2.11.12[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 37da9bc8 for Scala compiler version 2.11.12[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/zcl/environment_soft/synopsys2016/verdi2015/share/jre/linux64/lib/resources.jar:/home/zcl/environment_soft/synopsys2016/verdi2015/share/jre/linux64/lib/rt.jar:/home/zcl/environment_soft/synopsys2016/verdi2015/share/jre/linux64/lib/sunrsasign.jar:/home/zcl/environment_soft/synopsys2016/verdi2015/share/jre/linux64/lib/jsse.jar:/home/zcl/environment_soft/synopsys2016/verdi2015/share/jre/linux64/lib/jce.jar:/home/zcl/environment_soft/synopsys2016/verdi2015/share/jre/linux64/lib/charsets.jar:/home/zcl/environment_soft/synopsys2016/verdi2015/share/jre/linux64/lib/jfr.jar:/home/zcl/environment_soft/synopsys2016/verdi2015/share/jre/linux64/classes:/home/zcl/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/zcl/test_up/target/scala-2.11/classes:/home/zcl/.ivy2/cache/edu.berkeley.cs/chisel_2.11/jars/chisel_2.11-2.2.39.jar:/home/zcl/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-2.2.5.jar:/home/zcl/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.12.jar:/home/zcl/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.2.jar:/home/zcl/.ivy2/cache/org.scalacheck/scalacheck_2.11/jars/scalacheck_2.11-1.12.5.jar:/home/zcl/.ivy2/cache/org.scala-sbt/test-interface/jars/test-interface-1.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 3.509726663 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
